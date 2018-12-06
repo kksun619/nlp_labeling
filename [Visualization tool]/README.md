@@ -1,4 +1,4 @@
-[nlp_labeling/Visualization tool] 레이블링 통합 관리도구 개발
+[nlp_labeling/Visualization tool] 레이블링 통합 관리도구 개발 
 ======================
  # 1. 개발 목표
 
